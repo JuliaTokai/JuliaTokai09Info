@@ -52,7 +52,7 @@ Note:
 ## 本日の発表
 
 + antimon2: （未定）
-+ …
++ tsumakoto: JuliaでCLI作成
 
 ---
 
