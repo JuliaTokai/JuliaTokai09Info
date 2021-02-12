@@ -51,7 +51,7 @@ Note:
 
 ## 本日の発表
 
-+ antimon2: （未定）
++ antimon2: [Julia イテレーションプロトコル 入門](https://hackmd.io/@antimon2/S1_ojxEZu)
 + tsumakoto: JuliaでCLI作成
 
 ---
