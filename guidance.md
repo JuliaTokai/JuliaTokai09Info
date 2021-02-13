@@ -53,6 +53,9 @@ Note:
 
 + antimon2: [Julia イテレーションプロトコル 入門](https://hackmd.io/@antimon2/S1_ojxEZu)
 + tsumakoto: JuliaでCLI作成
++ kgm1500: Juliaでファイルを落として解凍できて便利だった話
++ hyrodium: …
++ ごまふあざらし: …
 
 ---
 
